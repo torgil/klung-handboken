@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 380" width="520" height="380" role="img" aria-label="Fel vs rätt position vid rotation fram — tredje led">
+<title>Fel vs rätt position vid rotation fram — tredje led</title>
+<rect width="520" height="380" fill="white"/>
+<g transform="translate(145.0,120.4)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(112.0,151.4)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(130,244.4)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(130,306.4)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(160,170)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(160,232)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(160,294)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(160,356)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(295.0,120.4)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(289.0,182.4)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(280,244.4)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(280,306.4)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(310,170)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(310,232)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(310,294)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(310,356)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g stroke="#dc2626" stroke-width="2" stroke-linecap="round" fill="none"><line x1="109.0" y1="83.2" x2="169.0" y2="380.8"/><line x1="109.0" y1="380.8" x2="169.0" y2="83.2"/></g>
+</svg>
