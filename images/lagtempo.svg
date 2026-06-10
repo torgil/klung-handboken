@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 400" width="240" height="400" role="img" aria-label="Lagtempo — rotation runt utsidan">
+<title>Lagtempo — rotation runt utsidan</title>
+<defs><marker id="arrowhead" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 Z" fill="#000"/></marker></defs>
+<rect width="240" height="400" fill="white"/>
+<path d="M148.0,60 Q194.0,184.0 148.0,308" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round" marker-end="url(#arrowhead)"/>
+<g transform="translate(140,60)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(140,122)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(140,184)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(140,246)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g transform="translate(140,308)">
+<path d="M-6.0,-15.0 L0,-25.0 L6.0,-15.0 M0,-24.0 L0,25.0" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

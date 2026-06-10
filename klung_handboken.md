@@ -181,7 +181,9 @@ Lagtempo (single-line rotation; *team time trial*-formation) är **ett enda led*
 - **Svagare cyklist:** drar kortare, kanske 15–30 sekunder
 - Var och en gör sitt och gruppen kommer fram tillsammans
 
-> [BILD-PLATS §3.3: Lagtempo-formation — en linje, rotation runt utsidan.]
+![Lagtempo — rotation runt utsidan](images/lagtempo.svg)
+
+*Lagtempo: en linje. Den som ligger först glider åt sidan och driver tillbaka längs utsidan av ledet, går in sist. Förningar efter förmåga.*
 
 **För- och nackdelar med lagtempo:**
 
